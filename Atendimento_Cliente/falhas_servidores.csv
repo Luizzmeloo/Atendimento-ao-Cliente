@@ -1,0 +1,31 @@
+Timestep,Servidor ID,Mensagem
+0,0,Sem falhas
+0,1,Sem falhas
+0,2,Sem falhas
+1,0,Sem falhas
+1,1,Sem falhas
+1,2,Sem falhas
+2,0,Falha no Servidor 0: Demanda de 16 excedeu a capacidade de 12.
+2,1,Sem falhas
+2,2,Sem falhas
+3,0,Falha no Servidor 0: Demanda de 20 excedeu a capacidade de 12.
+3,1,Sem falhas
+3,2,Sem falhas
+4,0,Sem falhas
+4,1,Sem falhas
+4,2,Sem falhas
+5,0,Falha no Servidor 0: Demanda de 17 excedeu a capacidade de 12.
+5,1,Sem falhas
+5,2,Sem falhas
+6,0,Falha no Servidor 0: Demanda de 18 excedeu a capacidade de 12.
+6,1,Sem falhas
+6,2,Sem falhas
+7,0,Falha no Servidor 0: Demanda de 15 excedeu a capacidade de 12.
+7,1,Sem falhas
+7,2,Sem falhas
+8,0,Sem falhas
+8,1,Sem falhas
+8,2,Sem falhas
+9,0,Sem falhas
+9,1,Falha no Servidor 1: Demanda de 19 excedeu a capacidade de 18.
+9,2,Falha no Servidor 2: Demanda de 13 excedeu a capacidade de 12.
